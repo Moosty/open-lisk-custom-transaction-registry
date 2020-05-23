@@ -7,13 +7,13 @@ Status:  Draft
 
 ## Abstract
 
-This list contains all registred Lisk transaction types. Everyone can 
+This list contains all registered Lisk transaction types. Everyone can 
 make a pull request to add new or update existing registrations.
 
 ## Motivation
 
 Custom transactions for blockchain applications based on Lisk could be used in different blockchain applications
-over and over again. To reduce type conflicts we want to have a central point of registration of these transaction types.
+over and over again. To reduce type conflicts we would like to have a central point of registration of these transaction types.
 
 ## Registered transaction types
 
